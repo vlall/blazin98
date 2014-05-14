@@ -1071,7 +1071,7 @@ background: #4F92BF; background: #292C37;
 }
 
 #Section-3 {background: #4F92BF;
-	background-image: url('http://www.build-iphone.com/uploads/soft/iPad%20Wallpaper/Abstract/audio%20%20waves.jpg'); background-size: cover;
+	background-image: url('../images/backgrounds/audio.png'); background-size: cover;
 	background-attachment: fixed
 
 
@@ -1079,9 +1079,9 @@ background: #4F92BF; background: #292C37;
 
 
 #Section-1 {
-background: #FF0000;
+background: #292C37;
 
-background-image: url('http://i60.tinypic.com/i3vqt1.jpg'); background-size: cover;
+background-image: url('../images/backgrounds/sib2.png'); background-size: cover;
 	background-attachment: fixed
 
 }
@@ -1096,13 +1096,13 @@ html,span{overflow:hidden;}
 background-color:#292C37; background-size: cover;
 padding-top: 100px;
 padding-bottom: 0px;
-		background-image: url('http://www.hiphopbev.com/wp-content/uploads/2013/01/slider_0002_background.png'); background-size: cover;
+		background-image: url('../images/backgrounds/back.png'); background-size: cover;
 	background-attachment: fixed
 }
 
 #head-top {
 
-		background-image: url('http://www.hiphopbev.com/wp-content/uploads/2013/01/slider_0002_background.png'); background-size: cover;
+		background-image: url('../images/backgrounds/back.png'); background-size: cover;
 	background-attachment: fixed
 }
 
@@ -1171,5 +1171,14 @@ a:link {color:#FFF;}
 
 .ImageBorder
 {
+
+}
+
+
+.new345{
+
+width:99%;
+height:45px;
+overflow: hidden
 
 }
